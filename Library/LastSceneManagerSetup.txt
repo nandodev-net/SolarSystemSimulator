@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Solar System Symulation.unity
+  isLoaded: 1
+  isActive: 1
